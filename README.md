@@ -1,4 +1,5 @@
 # MovieJD - Aplicativo web completo de catálogo e avaliação de filmes
+![Design sem nome (2)](https://user-images.githubusercontent.com/66522271/157495245-d69f353b-e16e-4a28-81ef-dfc5820bd24e.png)
 
 # Clonando o repositório
 
